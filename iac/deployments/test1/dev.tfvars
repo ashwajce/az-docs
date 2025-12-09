@@ -1,9 +1,0 @@
-environment          = "dev"
-location             = "westeurope"
-resource_group_name  = "rg-1"
-key_vault_name       = "teskjsdf"
-key_vault_sku        = "Premium"
-vnet_name            = "test"
-vnet_address_space   = ["10.0.0.0/16"]
-subnet_name          = "test-sub"
-subnet_address_prefix = "10.0.1.0/24"
