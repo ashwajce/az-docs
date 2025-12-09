@@ -36,3 +36,6 @@ Key policies deployed:
 ## Automation
 - Deployed through Terraform with ABC modules
 - Pipelines integrated with Azure DevOps
+
+## Azure Region Supported
+- westeurope
